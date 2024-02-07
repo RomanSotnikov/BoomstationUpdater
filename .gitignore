@@ -1,0 +1,6 @@
+# IDE
+.idea
+CMakeLists.txt.user
+
+# Out
+[Bb]uild
